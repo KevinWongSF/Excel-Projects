@@ -21,7 +21,7 @@ Data pipeline: Data Warehouse (Snowflake) -> Transformation (dbt) -> BI Tool (Pr
 
 **DAG**
 
-<img width="1371" alt="image" src="https://user-images.githubusercontent.com/81607668/223373076-a320ca6e-b58c-4421-b41e-cda991365772.png">
+<img width="1371" alt="image" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/2bce2289-da87-4c94-aae6-fdfd73f1a4ba">
 
 ## Setup
 
