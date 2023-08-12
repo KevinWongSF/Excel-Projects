@@ -1,33 +1,23 @@
-# 🛌 Airbnb Project
+#  📋Adidas Project
 
-## Objective
+## About
 
-Work in progress.
+In this project, I analyzed and cleaned data from an Adidas Dataset using pivot tables. I then created an example Dashboard within Excel for essential findings.
 
 ## Tools and Technologies
 
-- Data warehouse: Snowflake
-- Transformation: dbt
-- BI: Prefect
+- Data Set : [Adidas Dateset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)
+- Excel: Analysis and Dashboard
 
-## Architecture
-
-Data pipeline: Data Warehouse (Snowflake) -> Transformation (dbt) -> BI Tool (Prefect)
-
-**Data Flow**
-1.
-2.
-3.
-
-**DAG**
+**Dashboard**
 
 <img width="1371" alt="image" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/2bce2289-da87-4c94-aae6-fdfd73f1a4ba">
 
 ## Setup
 
-### Create Staging Models
+### Create Pivot Tables
 
-Create a `src_listings` model (.sql) in `models/src` folder with the following query in VS Code editor. Save it.
+
 
 ```sql
 -- models/src/src_listings.sql
