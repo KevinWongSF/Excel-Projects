@@ -25,7 +25,7 @@ Here I created pivot tables to analyze and compare the data
 <img width="825" alt="Screenshot 2023-02-27 at 11 19 35 AM" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/d0a396b8-d35c-48c9-8db5-f2a3720a5c0e">
 
 
-<img width="825" alt="Screenshot 2023-02-27 at 11 19 35 AM" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/d0a396b8-d35c-48c9-8db5-f2a3720a5c0e">
+<img width="825" alt="Screenshot 2023-02-27 at 11 19 35 AM" src="https://github.com/KevinWongSF/Portfolio/assets/136656858/5783ea18-f6ee-4653-a455-8d7e7f490764">
 
 
 
